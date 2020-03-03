@@ -1,0 +1,16 @@
+{
+  "name": "ebook-seller-nodejs",
+  "version": "1.0.0",
+  "description": "App to sell ebook",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "Express",
+    "Stripe"
+  ],
+  "author": "Aleksey Belchenkov",
+  "license": "ISC"
+}
